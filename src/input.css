@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Work+Sans:wght@200;300;400;600;700;800&display=swap');
+
+/* .unli{
+    @apply relative  hover:after:w-[100%];
+
+}
+
+.unli::after{
+    @apply content-[''] absolute bg-white h-[2px] w-[0%] left-0 bottom-0  duration-300;
+
+}
+
+.mainnav{
+
+    @apply max-sm:mt-[100px] max-sm:absolute max-sm:right-10 max-sm:left-10 max-sm:text-center max-sm:justify-between;
+}
+
+.lis{
+
+    @apply max-sm:pl-0 pl-10 hover:text-[#f15a29] duration-300;
+}
+.aboutr{
+
+    @apply max-sm:flex max-sm:justify-center max-sm:items-center  max-sm:flex-col max-sm:h-[100%] max-sm:mt-0 ;
+}
+
+.one{
+
+    @apply max-sm:h-[200px] max-sm:text-center max-sm:ml-auto max-sm:mr-auto;
+} */
+
